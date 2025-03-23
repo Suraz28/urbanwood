@@ -11,7 +11,7 @@ const About = () => {
         <div className="relative rounded-xl overflow-hidden mb-16">
           <img 
             src="https://images.unsplash.com/photo-1523359346063-d879354c0ea5?q=80&w=2000&auto=format&fit=crop" 
-            alt="Elegance Furniture team" 
+            alt="UrbanWood Furniture team" 
             className="w-full h-[500px] object-cover"
           />
           <div className="absolute inset-0 bg-black/40 flex items-center justify-center">
@@ -34,7 +34,7 @@ const About = () => {
           </div>
           
           <p className="text-lg text-primary/80 leading-relaxed mb-6">
-            At Elegance Furniture, we believe that beautiful, well-crafted furniture has the power to transform 
+            At UrbanWood Furniture, we believe that beautiful, well-crafted furniture has the power to transform 
             spaces and enhance the quality of life. Our mission is to create furniture that combines timeless 
             design, exceptional craftsmanship, and sustainable practices.
           </p>
@@ -109,7 +109,7 @@ const About = () => {
             <span className="inline-block px-3 py-1 bg-secondary rounded-full text-sm font-medium mb-4">
               Our Team
             </span>
-            <h2 className="text-3xl font-display font-semibold mb-4">Meet The People Behind Elegance</h2>
+            <h2 className="text-3xl font-display font-semibold mb-4">Meet The People Behind UrbanWood</h2>
             <p className="text-lg text-primary/80 max-w-2xl mx-auto">
               A passionate group of designers, craftspeople, and furniture enthusiasts dedicated to creating exceptional pieces.
             </p>
@@ -171,7 +171,7 @@ const About = () => {
                     </Button>
                   </Link>
                   <Link to="/contact">
-                    <Button variant="outline" className="text-white border-white hover:bg-white/10">
+                    <Button variant="outline" className="text-black-500 border-white hover:bg-white/10 hover:text-white">
                       Contact Us
                     </Button>
                   </Link>
