@@ -16,7 +16,7 @@ const About = () => {
           />
           <div className="absolute inset-0 bg-black/40 flex items-center justify-center">
             <div className="text-center text-white max-w-2xl p-6">
-              <h1 className="text-3xl md:text-5xl font-display font-semibold mb-4">Our Story</h1>
+              <h1 className="text-3xl md:text-5xl text-white font-display font-semibold mb-4">Our Story</h1>
               <p className="text-lg opacity-90">
                 Crafting beautiful furniture with passion and purpose since 2005.
               </p>
