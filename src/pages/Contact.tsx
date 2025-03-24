@@ -70,8 +70,8 @@ const Contact = () => {
                     <Mail className="h-5 w-5 text-primary mt-1 mr-3" />
                     <div>
                       <p className="font-medium">Email</p>
-                      <a href="mailto:info@elegancefurniture.com" className="text-primary/70 hover:text-primary">
-                        info@elegancefurniture.com
+                      <a href="mailto:info@urbanwoodfurniture.com" className="text-primary/70 hover:text-primary">
+                        info@urbanwoodfurniture.com
                       </a>
                     </div>
                   </div>
@@ -91,7 +91,7 @@ const Contact = () => {
                     <div>
                       <p className="font-medium">Address</p>
                       <p className="text-primary/70">
-                        123 Elegance Avenue<br />
+                        123 UrbanWood Avenue<br />
                         San Francisco, CA 94103<br />
                         United States
                       </p>
